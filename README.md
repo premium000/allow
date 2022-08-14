@@ -64,17 +64,12 @@ cd
 
 ## 3.
 
-  <img src="https://img.shields.io/badge/Buat_Akses_Root%20VPS-blue">
+  <img src="https://img.shields.io/badge/INSTALLATION SCRIPT%20VPS-blue">
   
-```
-  
-## 4.
-
-  <img src="https://img.shields.io/badge/Install_Semua_Layanan_VPN%20-blue">
-
 * INSTALL SCRIPT VPN
    
 ```html
+
 rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-get update -y && apt-get upgrade && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/Official-VCode/allow/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
   
 ```
