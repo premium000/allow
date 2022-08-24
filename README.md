@@ -38,7 +38,7 @@ su
 * MINIMUM RAM 1 GB UNTUK MENGGUNAKAN SCRIPT INI
 
 # Sesuai Untuk OS
-* • Debian 10 & 9
+* • Debian 10
 atau
 * • Ubuntu 18.04 & 20.04
 * Tested For VPS AWS,AZURE,DIGITAL OCEAN,UPCLOUD,LINODE,SHINJIRU
